@@ -1,0 +1,29 @@
+/* Styling recipes */
+
+
+h1 {
+   color: white;
+   text-align: center;
+   background-color: darkgreen;
+   font-family: Arial, Verdana, sans-serif;
+
+}
+
+.recipes {
+   color: blue;
+   font-size: 24px;
+   font-weight: bold;
+   font-family: Arial, Verdana, sans-serif;
+}
+
+#bbh {
+   background-color: rgb(245, 140, 140)
+}
+
+#banana {
+   background-color: lightblue;
+}
+
+#eggs {
+   background-color: lightyellow;
+}

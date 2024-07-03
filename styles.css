@@ -6,7 +6,16 @@ h1 {
    text-align: center;
    background-color: darkgreen;
    font-family: Arial, Verdana, sans-serif;
+   margin: 0 auto;
 
+}
+
+div {
+   padding: 20px;
+   text-align: center;
+   margin: 10px;
+   color #EEEEEE;
+   width: 200px;
 }
 
 .recipes {
